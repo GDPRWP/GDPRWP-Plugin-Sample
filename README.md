@@ -1,8 +1,8 @@
 # GDPRWP-Plugin-Sample
 
 ## To Test the plugin
-To test on your site, call http://yoursite.com/wp-admin/?debug-gdpr to see if your assigned data to the gdpr object.
-Follow the example found here https://github.com/GDPRWP/GDPRWP-Plugin-Sample
+To test on your site, call http://yoursite.com/wp-admin/?debug-gdpr to see your assigned data to the gdpr object.
+You altso need the main plugin installed. https://github.com/GDPRWP/GDPRWP-Plugin
 
 ## Description
 GDPR for WP is a proposed solution to GDPR compliance from a technical standpoint. 
